@@ -1,2 +1,2 @@
 # stepik_auto_tests_homework
-for homework exercise 3.6
+for homework exercise 4.1
